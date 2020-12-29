@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ANTENNA\ANTENNA\bin\Debug\netcoreapp3.0\Решетка.exe
+C:\Users\user\Desktop\ANTENNA\ANTENNA\bin\Debug\netcoreapp3.0\Решетка.deps.json
+C:\Users\user\Desktop\ANTENNA\ANTENNA\bin\Debug\netcoreapp3.0\Решетка.runtimeconfig.json
+C:\Users\user\Desktop\ANTENNA\ANTENNA\bin\Debug\netcoreapp3.0\Решетка.runtimeconfig.dev.json
+C:\Users\user\Desktop\ANTENNA\ANTENNA\bin\Debug\netcoreapp3.0\Решетка.dll
+C:\Users\user\Desktop\ANTENNA\ANTENNA\bin\Debug\netcoreapp3.0\Решетка.pdb
+C:\Users\user\Desktop\ANTENNA\ANTENNA\obj\Debug\netcoreapp3.0\Решетка.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ANTENNA\ANTENNA\obj\Debug\netcoreapp3.0\Решетка.AssemblyInfo.cs
+C:\Users\user\Desktop\ANTENNA\ANTENNA\obj\Debug\netcoreapp3.0\Решетка.dll
+C:\Users\user\Desktop\ANTENNA\ANTENNA\obj\Debug\netcoreapp3.0\Решетка.pdb

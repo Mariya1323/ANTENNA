@@ -1,0 +1,13 @@
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\bin\Debug\netcoreapp3.1\ForMasha.exe
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\bin\Debug\netcoreapp3.1\ForMasha.deps.json
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\bin\Debug\netcoreapp3.1\ForMasha.runtimeconfig.json
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\bin\Debug\netcoreapp3.1\ForMasha.runtimeconfig.dev.json
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\bin\Debug\netcoreapp3.1\ForMasha.dll
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\bin\Debug\netcoreapp3.1\ForMasha.pdb
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.csprojAssemblyReference.cache
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.AssemblyInfoInputs.cache
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.AssemblyInfo.cs
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.dll
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.pdb
+C:\Users\Timofey\source\repos\ForMasha\ForMasha\obj\Debug\netcoreapp3.1\ForMasha.genruntimeconfig.cache

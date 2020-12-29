@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ForMasha\ForMasha\bin\Debug\netcoreapp3.0\ForMasha.exe
+C:\Users\user\Desktop\ForMasha\ForMasha\bin\Debug\netcoreapp3.0\ForMasha.deps.json
+C:\Users\user\Desktop\ForMasha\ForMasha\bin\Debug\netcoreapp3.0\ForMasha.runtimeconfig.json
+C:\Users\user\Desktop\ForMasha\ForMasha\bin\Debug\netcoreapp3.0\ForMasha.runtimeconfig.dev.json
+C:\Users\user\Desktop\ForMasha\ForMasha\bin\Debug\netcoreapp3.0\ForMasha.dll
+C:\Users\user\Desktop\ForMasha\ForMasha\bin\Debug\netcoreapp3.0\ForMasha.pdb
+C:\Users\user\Desktop\ForMasha\ForMasha\obj\Debug\netcoreapp3.0\ForMasha.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ForMasha\ForMasha\obj\Debug\netcoreapp3.0\ForMasha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ForMasha\ForMasha\obj\Debug\netcoreapp3.0\ForMasha.AssemblyInfo.cs
+C:\Users\user\Desktop\ForMasha\ForMasha\obj\Debug\netcoreapp3.0\ForMasha.dll
+C:\Users\user\Desktop\ForMasha\ForMasha\obj\Debug\netcoreapp3.0\ForMasha.pdb
